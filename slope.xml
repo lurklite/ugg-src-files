@@ -5,25 +5,20 @@
   <html><head>
 <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<html><head><script src="https://www.id.net/api/user_data/autologin?callback=idnet_autologin&amp;app_id=55961e5ee694aa0ae90003e8"></script><script src="//www.google.com/jsapi"></script><script>window.parent.maeExportApis_();</script>
-
-  
-    <base target="_top">
-  </head>
-  <body>    
-<link rel="stylesheet" href="https://sites.google.com/site/februarytimes12/style.css">
-<script src="https://sites.google.com/site/testingft2/kvikUnityProgress.js"></script>
-    <script src="https://sites.google.com/site/test3tret/officeUnityLoader.js"></script>
-    <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "https://www-sites-opensocial.googleusercontent.com/gadgets/proxy/container=enterprise/https://sites.google.com/site/februarytimes12/slope.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}});
+<html lang="en-us"><head><meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="noindex, nofollow">
+<title>Unity WebGL Player | Slope</title>
+<link rel="stylesheet" href="style/style.css">
+<script src="https://www.id.net/api/user_data/autologin?callback=idnet_autologin&amp;app_id=55961e5ee694aa0ae90003e8"></script><script src="UnityProgress.js"></script>
+<script src="UnityLoader.js"></script>
+<script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "slope_new.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}});
     </script>
-    <div class="webgl-content">
-        <div id="gameContainer" style="width: 900px; height: 640px; margin: 0px; padding: 0px; border: 0px; position: relative; background: rgb(35, 31, 32);"><canvas id="#canvas" width="900" height="640" style="cursor: default;"></canvas><div class="logo Dark" style="display: none;"></div><div class="progress Dark" style="display: none;"><div class="empty" style="width: 0%;"></div><div class="full" style="width: 100%;"></div></div></div>
-     <center><div class="simmer">slope - <a href="https://sites.google.com/view/unblockedgame/unblocked-games-wtf" target="_blank">More unblocked games wtf</a></div><center>
-
-      
-
-          
- </center></center></div><script src="blob:https://n-ddj3cpyld3ocxehzxxfhukefvswmu4mbcjjbi2a-1lu-script.googleusercontent.com/a79323a5-19ee-4a6d-8f65-349b691fb90b" id="cfca1f89de71de7139a3eea12a44d7e7"></script></body></html>
+</head><body><div class="webgl-content">
+<div id="gameContainer" style="width: 100%; height: 100%; margin: 0px; padding: 0px; border: 0px; position: relative; background: rgb(35, 31, 32);"><canvas id="#canvas" width="935" height="754" style="cursor: default;"></canvas><div class="logo Dark" style="display: none;"></div><div class="progress Dark" style="display: none;"><div class="empty" style="width: 0%;"></div><div class="full" style="width: 100%;"></div></div></div>
+</div>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon="{&quot;rayId&quot;:&quot;78c428fd3a4f2aae&quot;,&quot;token&quot;:&quot;c843b8c381814d58b40d4597a1bf7962&quot;,&quot;version&quot;:&quot;2022.11.3&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+<script src="blob:https://watchdocumentaries.com/6e277dc6-9ad2-47c5-a123-40b445e35ec5"></script></body></html>
   ]]></Content>
 </Module>
